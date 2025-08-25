@@ -1,5 +1,4 @@
 {
-  "timeZone": "en-US",
   "skipInvalidProxy": false,
   "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
@@ -7,3 +6,4 @@
   "doTasks": true,
   "referralCode": "eJwzqEi1MEy1sLRIMzBMSjaxTDJJNDUzNzOySDSzMDcDEolJIHEzEzMA9_ELTw=="
 }
+
