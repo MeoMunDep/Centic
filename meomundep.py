@@ -1,1 +1,1 @@
-print("Wait for new scripts guys...")
+print("Stop updating this scripts, please choose another!`)
